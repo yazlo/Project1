@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:blue;
+}
+p{
+    font-family: comic sans ms;
+    text-align:center;
+    color:yellow;
+    top:50%;
+    font-size:200px;
+}
+div{
+    margin-top:150px;
+}
